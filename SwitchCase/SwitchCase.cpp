@@ -78,8 +78,9 @@ int main()
 			system("pause");
 			break;
 		}
-
 		
-	}
+	} while (pilihan != 5); //!= adalah tidak sama dengan.
+
+	return 0;
 }
 
