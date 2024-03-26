@@ -34,9 +34,24 @@ void inputData()
 	cin >> bilangan2;
 }
 
-
 int main()
 {
-   
+	int pilihan;
+	do
+	{
+		system("CLS");
+		cout << "Menu Kalkulator sederhana" << endl;
+		cout << "1. Penjumlahan" << endl;
+		cout << "2. Pengurangan" << endl;
+		cout << "3. Perkalian" << endl;
+		cout << "4. Pembagian" << endl;
+		cout << "5. Keluar" << endl;
+		cout << "Masukkan pilihan: ";
+		cin >> pilihan;
+
+		
+
+		
+	}
 }
 
